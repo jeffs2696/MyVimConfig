@@ -26,7 +26,7 @@ let $RC="$HOME/.vim/.vimrc"
 
 
 " makes tab into spaces
-:set tabstop=
+:set tabstop=4
 :set shiftwidth=4
 :set expandtab
 
